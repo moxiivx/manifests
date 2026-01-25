@@ -5,12 +5,12 @@
 ###-------------------------
 
 # xmls
-s5e8825xml="$HOME/manifests/a53/avium/s5e8825.xml"
-mainmanifest="$HOME/manifests/a53/avium/manifest.xml"
+s5e8825xml="$HOME/manifests/a53/avium/qpr2/s5e8825.xml"
+mainmanifest="$HOME/manifests/a53/avium/qpr2/manifest.xml"
 
 # path to copy to
-pathtcpt1="$HOME/roms/avium/.repo/"
-pathtcpt2="$HOME/roms/avium/.repo/manifests/"
+pathtcpt1="$HOME/roms/avium-qpr2/.repo/"
+pathtcpt2="$HOME/roms/avium-qpr2/.repo/manifests/"
 
 ###--------------------------
 ###      copying stuff
